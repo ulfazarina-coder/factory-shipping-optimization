@@ -23,7 +23,7 @@ This project analyzes the logistics and shipping efficiency of a national US can
 ### 1. Exploratory Data Analysis (EDA)
 > *This section utilizes Exploratory Data Analysis (EDA) to uncover general insights and give a comprehensive overview of the underlying data.*
 
-*(Insert EDA Dashboard screenshot here: `![EDA Dashboard](path/to/image)`)*
+![EDA Dashboard](https://github.com/ulfazarina-coder/factory-shipping-optimization/blob/main/Exploratory%20Data%20Analysis.png?raw=true)
 
 **Key Findings:**
 * **Overall Performance:** The business sold 37.873K units across 8.389K orders, generating a total revenue of $138.83K.
@@ -36,7 +36,7 @@ This project analyzes the logistics and shipping efficiency of a national US can
 ### 2. Efficient Factory Analysis
 > *This section is designed to evaluate shipping route efficiency, highlighting the most and least optimal delivery paths from factories to customers.*
 
-*(Insert Efficient Factory Dashboard screenshot here: `![Efficient Factory Details](path/to/image)`)*
+![Efficient Factory Details](https://github.com/ulfazarina-coder/factory-shipping-optimization/blob/main/Efficient%20Factory%20Details.png?raw=true)
 
 **Key Findings:**
 * **Overall Route Efficiency:** Delivery routes show a near-even split in optimization, with 52.41% of orders successfully fulfilled by the nearest available factory. Conversely, 47.59% of orders were dispatched from further locations.
